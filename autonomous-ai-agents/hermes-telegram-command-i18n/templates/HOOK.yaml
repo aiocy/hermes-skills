@@ -1,0 +1,4 @@
+name: "telegram-command-i18n"
+description: "Apply localized Telegram slash command descriptions on gateway startup"
+events:
+  - "gateway:startup"
